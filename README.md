@@ -1,6 +1,7 @@
 # Propositional-Logic-Calculator
 A propositional logic calculator developed in Java.
 
+
 This project is made following the completion of our Discrete Mathematics class at Concordia Univeristy (COMP-232).
 
 ## Project Outline
