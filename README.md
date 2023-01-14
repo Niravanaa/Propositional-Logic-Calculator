@@ -3,7 +3,7 @@ A propositional logic calculator developed in Java.
 
 This project is made following the completion of our Discrete Mathematics class at Concordia Univeristy (COMP-232).
 
-This project will be completed in the following manner:
+## Project Outline
   1. Understand the concept of propositional logic and its operations (such as AND, OR, NOT, etc.)
   2. Identify the set of propositional symbols that will be used in the calculator.
   3. Decide on the data structure to represent the propositional formulas, such as a binary tree.
